@@ -84,9 +84,3 @@ Plus a sign-and-magnitude consistency check on all eight dynamic coefficients (c
 - Childs, D. W. (1993). *Turbomachinery Rotordynamics*. Wiley.
 - Jang, G. H., Lee, S. H. (2006). Determination of the dynamic coefficients of the coupled journal and thrust bearings by perturbation method. *Tribology Letters* **22**(3), 239–246.
 - Alves, D. S., Wu, M. F., Cavalca, K. L. (2022). Application of asymmetric wear bearings in rotating machinery. *J. Sound Vib.* **524**, 116772.
-
----
-
-## Contact
-
-Akshat Verma — HPCL Mumbai Refinery — preparing PhD application for Fall 2026.
